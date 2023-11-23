@@ -27,6 +27,7 @@ const click = ()=>{
     <DemoCore ref="demoCore"/>
     <button class="sss" @click="click">demoCore</button>
     <dssDemoFor />
+    <ddsMark />
   </div>
 </template>
 

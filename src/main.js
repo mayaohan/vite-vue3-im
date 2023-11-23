@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './style.css'
+import '@/assets/main.scss'
 import App from './App.vue'
 // import MyPlugin from '../lib/index.es'
 // import MyPlugin from 'vite-vue3-im'

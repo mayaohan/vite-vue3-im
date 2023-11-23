@@ -27,11 +27,13 @@
     "@vitejs/plugin-vue-jsx": "^3.0.2",
     "@vue/babel-preset-jsx": "^1.4.0",
     "global": "^4.4.0",
+    "markdown-it": "^13.0.2",
     "stylus-converter": "^0.8.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
+    "sass": "^1.69.5",
     "vite": "^4.4.5"
   }
 }

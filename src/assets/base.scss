@@ -69,17 +69,8 @@ div.vxe-toolbar,div.vxe-table,.firstList,span.el-only-child__content {
 }
 
 body {
-  // background-image: linear-gradient(180deg, #002BFF 0%, #0F63FF 15.00%, rgba(245, 245, 245, 0.00) 100%),radial-gradient(48.53% 50% at 58% 9.00%, rgba(0, 212, 255, 0.88) 0%, rgba(0, 212, 255, 0.00) 20%);
-  // background: linear-gradient(180deg, #50F 60%, rgba(0, 255, 255, 0.00) 80%);
-  // background: ;
-  // filter: blur(67.95704650878906px);
-  background-image: radial-gradient(48.53% 100% at 45% 12.00%, rgba(0, 212, 255, 0.88) 0%, rgba(0, 212, 255, 0.00) 50%),
-                    radial-gradient(58.53% 100% at 68% 39.00%, rgba(85,0,255,0.1) 0%, rgba(0, 255, 255, 0.00) 20%),
-                    linear-gradient(180deg, #002BFF 0%, #0F63FF 15.00%, rgba(245, 245, 245, 0.00) 100%);
-  background-repeat: no-repeat;
-  background-size: 100% 40%, 100% 40%,100% 40%;
   min-height: 100vh;
-  color: var(--color-text);
+  // color: var(--color-text);
   // background: var(--color-background);
   transition: color 0.5s, background-color 0.5s;
   line-height: 1.6;

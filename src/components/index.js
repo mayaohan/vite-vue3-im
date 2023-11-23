@@ -1,4 +1,5 @@
-import {dssDemoFor} from '@/components/demo'
+import {dssDemoFor,ddsMark} from '@/components/demo'
 export default [
-    dssDemoFor
+    dssDemoFor,
+    ddsMark
 ]
