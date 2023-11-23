@@ -24,14 +24,6 @@ const click = ()=>{
       hello-world-slot
     </hello-world>
     <demo-component :childComponent="item"></demo-component>
-
-    <button @click="e=>ax++">+++</button>
-    <div style="display:flex;width:500px;">
-      <div class="box">sadfasdf</div>
-      <div class="box">
-        <p v-for="o in ax" :key="o">sadfsadf</p>
-      </div>
-    </div>
     <DemoCore ref="demoCore"/>
     <button class="sss" @click="click">demoCore</button>
     <dssDemoFor />
