@@ -1,0 +1,63 @@
+@import './base.scss';
+@import './menu.scss';
+
+#app {
+  width:100%;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  cursor:pointer;
+}
+
+@media (hover: hover) {
+  // a:hover {
+  //   background-color: hsla(160, 100%, 37%, 0.2);
+  // }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    // place-items: center;
+  }
+}
+@media (min-width: 1280px) {
+  body {
+    display: flex;
+    // place-items: center;
+  }
+}
+
+
+
+.ddscontainer{
+  width:100%;
+  min-height:100px;
+  background:#fff;
+}
+@media (max-width: 1279px) {
+  .ddscontainer{
+    background:#f0f0f0;
+  }
+}
+@media screen and (min-width:1280px) and (max-width:1679px){
+  .ddscontainer{
+    background:#ccc;
+  }
+}
+@media screen and (min-width:1680px) and (max-width:1919px){
+  .ddscontainer{
+    background:#aaa;
+  }
+}
+@media (min-width: 1920px) {
+  .ddscontainer{
+    background:#505050;
+  }
+}

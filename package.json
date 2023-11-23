@@ -1,0 +1,37 @@
+{
+  "name": "vite-vue3-im",
+  "description": "IM和云小蜜",
+  "keywords": [
+    "内部使用"
+  ],
+  "license": "ISC",
+  "author": "912131555@qq.com",
+  "main": "lib/index.umd.js",
+  "module": "lib/index.es.js",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dengzemiao/DZMFullPage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dengzemiao/DZMFullPage/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "@vue/babel-preset-jsx": "^1.4.0",
+    "global": "^4.4.0",
+    "stylus-converter": "^0.8.1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}

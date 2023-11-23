@@ -1,0 +1,173 @@
+
+.ddx-menu-item {
+  display: flex;
+  align-items: center;
+  height: 56px;
+  line-height: 56px;
+  font-size: .2rem;
+  color: #fff;
+  padding: 0 10px;
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  transition: border-color .6 ease,
+    // background-color getCssVar('transition-duration'),
+    color .3 ease;
+  box-sizing: border-box;
+  white-space: nowrap;
+
+  * {
+    vertical-align: bottom;
+  }
+
+  i {
+    color: inherit;
+  }
+
+  &:hover,
+  &:focus {
+    outline: none;
+  }
+
+  &:hover {
+    background-color: getCssVar('menu-hover-bg-color');
+  }
+
+  &.disabled {
+    opacity: 0.25;
+    cursor: not-allowed;
+    background: none !important;
+  }
+}
+.ddx-menu--horizontal {
+  display: flex;
+  flex-wrap: nowrap;
+  border-right: none;
+}
+.ddx-menu {
+  list-style: none;
+  position: relative;
+  margin: 0;
+  padding-left: 0;
+  box-sizing: border-box;
+}
+.ddx-menu--horizontal > .ddx-menu-item {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  border-bottom: 2px solid transparent;
+  color: #fff;
+}
+.ddx-menu--horizontal > .ddx-sub-menu .ddx-sub-menu__title {
+  height: 100%;
+  border-bottom: 2px solid transparent;
+  color: #fff;
+}
+.ddxMenu_one{
+  font-size: 0.2rem!important;
+}
+.ddxMenu_one_group{
+  &>.ddx-sub-menu__title{
+    font-size:0.2rem!important;
+  }
+  &>.el-sub-menu__title{
+    font-size:0.2rem!important;
+  }
+}
+.el-menu--popup-bottom-start{
+  &>.ddxMenu_one{
+    font-size: 0.16rem!important;
+  }
+  &>.ddxMenu_one_group{
+    &>.el-sub-menu__title{
+      font-size:0.16rem!important;
+    }
+  }
+}
+.ddx-menu--popup-bottom-start{
+  &>.ddxMenu_one{
+    font-size: 0.16rem!important;
+  }
+  &>.ddxMenu_one_group{
+    &>.ddx-sub-menu__title{
+      font-size:0.16rem!important;
+    }
+  }
+}
+.ddxMenu_child{
+  font-size:0.16rem!important;
+  &>.ddx-sub-menu__title{
+    font-size:0.16rem!important;
+  }
+}
+.ddx-sub-menu__title {
+  display: flex;
+  align-items: center;
+  height: var(--el-menu-item-height);
+  line-height: var(--el-menu-item-height);
+  color: var(--el-menu-text-color);
+  padding: 0 var(--el-menu-base-level-padding);
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  transition: border-color var(--el-transition-duration), background-color var(--el-transition-duration), color var(--el-transition-duration);
+  box-sizing: border-box;
+  white-space: nowrap;
+  padding-right: calc( var(--el-menu-base-level-padding) + var(--el-menu-icon-width) );
+}
+.ddx-menu--horizontal .ddx-menu .ddx-menu-item, .ddx-menu--horizontal .ddx-menu .ddx-sub-menu__title {
+  background-color: var(--el-menu-bg-color);
+  display: flex;
+  align-items: center;
+  height: var(--el-menu-horizontal-sub-item-height);
+  line-height: var(--el-menu-horizontal-sub-item-height);
+  padding: 0 10px;
+  color: var(--el-menu-text-color);
+}
+.ddx-menu--popup {
+  z-index: 100;
+  min-width: 200px;
+  border: none;
+  padding: 5px 0;
+  border-radius: var(--el-border-radius-small);
+  box-shadow: var(--el-box-shadow-light);
+}
+.ddx-menu-item.is-disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+  background: none !important;
+}
+.ddx-menu-item {
+  display: flex;
+  align-items: center;
+  height: var(--el-menu-item-height);
+  line-height: var(--el-menu-item-height);
+  font-size: var(--el-menu-item-font-size);
+  color: var(--el-menu-text-color);
+  padding: 0 var(--el-menu-base-level-padding);
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  transition: border-color var(--el-transition-duration), background-color var(--el-transition-duration), color var(--el-transition-duration);
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.ddx-sub-menu__hide-arrow{
+  .ddx-sub-menu__icon-arrow{
+    display:none;
+  }
+}
+.ddx-sub-menu__icon-arrow{
+  transition: transform .3s;
+}
+// ::-webkit-scrollbar-thumb {
+//   background-color: #0003;
+//   border-radius: 10px;
+//   transition: all .2s ease-in-out;
+// }
+// .ddx-menu--popup-container{
+//   transition: all 0.3s ease; /* 过渡动画的变化属性 */
+// }
+// export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
