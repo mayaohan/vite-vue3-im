@@ -20,14 +20,14 @@ const click = ()=>{
 
 <template>
   <div>
-    <hello-world :childComponent="item">
+    <!-- <hello-world :childComponent="item">
       hello-world-slot
-    </hello-world>
-    <demo-component :childComponent="item"></demo-component>
-    <DemoCore ref="demoCore"/>
-    <button class="sss" @click="click">demoCore</button>
-    <dssDemoFor />
-    <ddsMark />
+    </hello-world> -->
+    <!-- <demo-component :childComponent="item"></demo-component> -->
+    <!-- <DemoCore ref="demoCore"/> -->
+    <!-- <button class="sss" @click="click">demoCore</button> -->
+    <!-- <dssDemoFor /> -->
+    <!-- <ddsMark /> -->
   </div>
 </template>
 

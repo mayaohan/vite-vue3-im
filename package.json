@@ -13,10 +13,10 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dengzemiao/DZMFullPage.git"
+    "url": "https://github.com/mayaohan/vite-vue3-im.git"
   },
   "bugs": {
-    "url": "https://github.com/dengzemiao/DZMFullPage/issues"
+    "url": "https://github.com/mayaohan/vite-vue3-im/issues"
   },
   "scripts": {
     "dev": "vite",
