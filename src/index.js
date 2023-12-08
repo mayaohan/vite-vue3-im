@@ -5,7 +5,8 @@ import * as components from './components'; // 导入所有组件
     // 全局注册所有组件
     Object.values(components.default).forEach((component) => {
       console.log(component)
-      app.component(component.name, component);
+      const names = component.name
+      app.component(names, component);
     });
   }
 // };

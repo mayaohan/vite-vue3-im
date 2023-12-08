@@ -1,0 +1,200 @@
+[
+  {
+    "id":"1",
+    "path": "/index/home",
+    "name": "home",
+    "meta": { "title": "首页", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1001",
+    "path":"/index/home1",
+    "name":"service",
+    "meta":{ "title": "DCE业务", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1002",
+    "path":"/index/data",
+    "name":"data",
+    "meta":{ "title": "DCE数据", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1003",
+    "path":"/index/home3",
+    "name":"meetting",
+    "meta":{ "title": "DCE会议", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1004",
+    "path":"/index/home4",
+    "name":"online",
+    "meta":{ "title": "DCE行情", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1005",
+    "path":"/index/home5",
+    "name":"transaction",
+    "meta":{ "title": "DCE交易", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1006",
+    "path":"/index/information",
+    "name":"information",
+    "meta":{ "title": "DCE资讯", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1007",
+    "path":"/index/home7",
+    "name":"education",
+    "meta":{ "title": "DCE投教", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"1008",
+    "path":"/index/home8",
+    "name":"support",
+    "meta":{ "title": "DCE支持", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10001",
+    "pid":"1001",
+    "path":"/index/scroll1",
+    "name":"digital",
+    "meta":{ "title": "数字仓单", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10002",
+    "pid":"1001",
+    "path":"/index/scroll2",
+    "name":"outside",
+    "meta":{ "title": "场外平台", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10003",
+    "pid":"1001",
+    "path":"/index/scroll3",
+    "name":"physicals",
+    "meta":{ "title": "期转现平台", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10004",
+    "pid":"1001",
+    "path":"/index/scroll4",
+    "name":"manage",
+    "meta":{ "title": "市场活动管理平台", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10005",
+    "pid":"1001",
+    "path":"/index/scroll5",
+    "name":"warehouse",
+    "meta":{ "title": "仓库数字化系统", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10006",
+    "pid":"1001",
+    "path":"/index/scroll6",
+    "name":"information",
+    "meta":{ "title": "农保计划项目信息系统", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"10007",
+    "pid":"1001",
+    "path":"/index/scroll7",
+    "name":"soybean",
+    "meta":{ "title": "进口大豆期货监管信息系统", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100011",
+    "pid":"1004",
+    "path":"/index/table1",
+    "name":"optional",
+    "meta":{ "title": "自选", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100012",
+    "pid":"1004",
+    "path":"/index/table2",
+    "name":"forward",
+    "meta":{ "title": "期货", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100013",
+    "pid":"1004",
+    "path":"/index/table3",
+    "name":"option",
+    "meta":{ "title": "期权", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100014",
+    "pid":"1004",
+    "path":"/index/table4",
+    "name":"outerDisc",
+    "meta":{ "title": "外盘", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100015",
+    "pid":"1004",
+    "path":"/index/table5",
+    "name":"off-site",
+    "meta":{ "title": "场外", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100211",
+    "pid":"1005",
+    "path":"/index/table6",
+    "name":"imitate",
+    "meta":{ "title": "模拟交易", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100121",
+    "pid":"1008",
+    "path":"/index/table02",
+    "name":"Business",
+    "meta":{ "title": "在线业务商城", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100122",
+    "pid":"1008",
+    "path":"/index/table03",
+    "name":"Communication",
+    "meta":{ "title": "DCE交流群", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100123",
+    "pid":"1008",
+    "path":"/index/table04",
+    "name":"leaveMessage",
+    "meta":{ "title": "DCE留言平台", "icon": "dashboard", "noCache": false },
+    "switch":1
+  },
+  {
+    "id":"100123222",
+    "path":"/index/scroll",
+    "name":"scroll",
+    "meta":{ "title": "scroll", "icon": "dashboard", "noCache": false },
+    "switch":1
+  }
+]

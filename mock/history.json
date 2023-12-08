@@ -1,0 +1,253 @@
+{
+  "success": true,
+  "data": {
+      "history": {
+          "list": [
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143453441260412505",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863027236508990\",\"msgId\":\"1143453441260412505\",\"version\":\"1.3.1\",\"sendTime\":1688630272367},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"card\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060233147\"}},\"content\":{\"code\":\"fusion\",\"data\":{\"components\":[{\"code\":\"adaptable-action-card\",\"data\":{\"picUrl\":\"https://img.alicdn.com/tfs/TB1Hao4vET1gK0jSZFhXXaAtVXa-1492-814.png\",\"content\":\"组件全面支持无障碍，已通过信息无障碍研究会的认证，基于ChatUI组件开发的卡片，默认对障碍人士友好。面对障碍群体，我们希望通过我们的努力，让他们也可以通过科技平等享受现代文明。\"}}],\"background\":\"transparent\",\"name\":\"无障碍\",\"width\":\"normal\",\"internalVersion\":\"3.0.0\",\"id\":4868,\"position\":\"normal\",\"category\":\"assistant\",\"contentType\":\"static\",\"tenant\":11352062},\"cardId\":\"4868:2.0.0\",\"params\":{\"sourceId\":\"4000000\",\"isGuest\":\"true\",\"nick\":\"Guest1550006696\",\"dialog\":\"true\",\"isLoadNewServiceHallDeny\":\"false\",\"requestUrl\":\"http://ai.alimebot.taobao.com/intl/index.htm\",\"appId\":\"2005804\",\"navigationPageSwitch\":\"false\",\"appKey\":\"TeuvRW4J\",\"from\":\"kUmEyoVW73\",\"robotCode\":\"fn0PFg46kR\",\"autoTranslate\":\"false\",\"appChannelName\":\"other\",\"snsNick\":\"Guest1550006696\",\"canResumeAgentSession\":\"false\",\"enableLoadMessageAsync\":\"true\",\"invokeSource\":\"KBS\",\"appName\":\"chatui\",\"robotAppKey\":\"ApJ4MBYawl\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"sessionId\":\"1696add92e0c4758ad5ff008b4767bab\",\"robotId\":\"1879\",\"isPC\":\"true\",\"userId\":\"4000000387766443\",\"foreignId\":\"null\",\"sourceType\":\"ALIME\",\"robotSessionId\":\"1696add92e0c4758ad5ff008b4767bab\",\"sys_orderConfig\":\"{\\\"biz\\\":\\\"alixm\\\",\\\"hsf\\\":\\\"\\\",\\\"type\\\":\\\"tb\\\"}\",\"clientIp\":\"113.227.61.231\",\"cardId\":\"4868:2.0.0\",\"tenantId\":\"11352062\",\"isLoadNewServiceHall\":\"false\",\"guest\":\"true\",\"channelName\":\"ChatUI官网\"}},\"extraInfo\":{\"traceId\":\"2105329316886302722546178d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"5cbbcb74a7884b28bb5b5e23455584cd\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630272000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143453440312500111",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886302722546178d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863027219014081\",\"msgId\":\"1143453440312500111\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{\"clickParam\":{\"clickSource\":\"CONTEXT_RECOMMEND\",\"clickId\":\"1060233147\",\"clickType\":\"knowledge\"}},\"content\":{\"text\":\"无障碍\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630272000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143453421832396212",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863027004853080\",\"msgId\":\"1143453421832396212\",\"version\":\"1.3.1\",\"sendTime\":1688630270052},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"card\",\"content\":{\"code\":\"recommend\",\"data\":{\"recommend\":[{\"knowledgeId\":\"1060233147\",\"title\":\"无障碍\"}]}},\"extraInfo\":{\"traceId\":\"2105329316886302698426096d08e8\",\"foreignId\":\"null\",\"evaluable\":false,\"logParams\":{\"answerType\":\"recommend\",\"answerSource\":\"CONTEXT_RECOMMEND\"},\"chatUuid\":\"c03521ae0fab4359a1f9e788a5efb960\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630270000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143453420079176836",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886302698426096d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863026978664445\",\"msgId\":\"1143453420079176836\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{},\"content\":{\"text\":\"云小蜜都有哪些卡片\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"inputType\":\"keyboard\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630270000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452774366075947",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863019286588367\",\"msgId\":\"1143452774366075947\",\"version\":\"1.3.1\",\"sendTime\":1688630192884},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"richtext\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060204674\"},\"knowledgeOutParams\":{\"knowledgeId\":\"1060204674\"}},\"content\":{\"text\":\"<div id=\\\"se-knowledge\\\"><p>ChatUI Pro，是在设计规范和 ChatUI 基础组件的基础上，结合阿里小蜜的最佳实践，沉淀和总结出来的一个开箱即用的，可快速搭建智能对话机器人的框架。它简单易上手，通过简单的配置就能搭建出对话机器人；同时它强大易扩展，通过丰富的接口和自定义卡片满足各种定制化需求。</p><p>访问 <a href=\\\"https://chatui.io/sdk\\\" target=\\\"_self\\\">https://chatui.io/sdk</a> 了解更多</p><link rel=\\\"stylesheet\\\" href=\\\"//g.alicdn.com/ikc-fe/kc-editor-theme/pc.css\\\"></div>\",\"contentType\":\"Html\"},\"extraInfo\":{\"traceId\":\"2105329316886301926643607d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"3998b51f45dc4b0198f38037cf75bc46\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630193000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452772671577336",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886301926643607d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863019260616014\",\"msgId\":\"1143452772671577336\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{\"clickParam\":{\"clickSource\":\"quick-replies\",\"clickId\":\"\",\"clickType\":\"knowledge\"}},\"content\":{\"text\":\"ChatUI Pro\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"originContent\":\"ChatUI Pro\",\"inputType\":\"shortcut\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630193000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452347436260872",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863014197025318\",\"msgId\":\"1143452347436260872\",\"version\":\"1.3.1\",\"sendTime\":1688630141973},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"card\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060204659\"}},\"content\":{\"code\":\"fusion\",\"data\":{\"components\":[{\"code\":\"adaptable-action-card\",\"data\":{\"picUrl\":\"https://gw.alicdn.com/tfs/TB19Q4ovSf2gK0jSZFPXXXsopXa-1980-1080.png\",\"actionList\":[{\"param\":{\"url\":\"https://chatui.io/sdk/getting-started\"},\"action\":\"openWindow\",\"style\":\"primary\",\"text\":\"查看接入文档\"}],\"content\":\"开箱即用的框架，只需传入配置即可搭建出机器人对话产品，上手简单，接入成本低。云小蜜政务线使用ChatUI SDK之后，开发周期由14天以上缩短到7天以内。\"}}],\"showInHistory\":1,\"background\":\"transparent\",\"name\":\"SDK介绍\",\"width\":\"normal\",\"internalVersion\":\"3.0.0\",\"id\":4865,\"position\":\"normal\",\"category\":\"assistant\",\"title\":\"SDK介绍\",\"contentType\":\"static\",\"tenant\":11352062},\"cardId\":\"4865:2.0.0\",\"params\":{\"sourceId\":\"4000000\",\"isGuest\":\"true\",\"nick\":\"Guest1550006696\",\"dialog\":\"true\",\"isLoadNewServiceHallDeny\":\"false\",\"requestUrl\":\"http://ai.alimebot.taobao.com/intl/index.htm\",\"appId\":\"2005804\",\"navigationPageSwitch\":\"false\",\"appKey\":\"TeuvRW4J\",\"from\":\"kUmEyoVW73\",\"robotCode\":\"fn0PFg46kR\",\"autoTranslate\":\"false\",\"appChannelName\":\"other\",\"snsNick\":\"Guest1550006696\",\"canResumeAgentSession\":\"false\",\"enableLoadMessageAsync\":\"true\",\"invokeSource\":\"KBS\",\"appName\":\"chatui\",\"robotAppKey\":\"ApJ4MBYawl\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"sessionId\":\"1696add92e0c4758ad5ff008b4767bab\",\"robotId\":\"1879\",\"isPC\":\"true\",\"userId\":\"4000000387766443\",\"foreignId\":\"null\",\"sourceType\":\"ALIME\",\"robotSessionId\":\"1696add92e0c4758ad5ff008b4767bab\",\"sys_orderConfig\":\"{\\\"biz\\\":\\\"alixm\\\",\\\"hsf\\\":\\\"\\\",\\\"type\\\":\\\"tb\\\"}\",\"clientIp\":\"113.227.61.231\",\"cardId\":\"4865:2.0.0\",\"tenantId\":\"11352062\",\"isLoadNewServiceHall\":\"false\",\"guest\":\"true\",\"channelName\":\"ChatUI官网\"}},\"extraInfo\":{\"traceId\":\"2105329316886301417422091d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"a3fd223111e14450b8ec97ea95d57bed\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630142000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452345498492523",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886301417422091d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863014169027377\",\"msgId\":\"1143452345498492523\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{\"clickParam\":{\"clickSource\":\"quick-replies\",\"clickId\":\"\",\"clickType\":\"knowledge\"}},\"content\":{\"text\":\"ChatUI SDK\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"originContent\":\"ChatUI SDK\",\"inputType\":\"shortcut\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630142000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452131186334855",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863011619280475\",\"msgId\":\"1143452131186334855\",\"version\":\"1.3.1\",\"sendTime\":1688630116194},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"richtext\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060204757\"},\"knowledgeOutParams\":{\"knowledgeId\":\"1060204757\"}},\"content\":{\"text\":\"<div id=\\\"se-knowledge\\\"><p>ChatUI提供了 50+ 基础组件、覆盖各类场景</p><p>组件特性丰富、满足各种功能需求</p><p>简单搭建各种业务模板</p><p>访问 <a href=\\\"https://chatui.io/components\\\" target=\\\"_self\\\">https://chatui.io/components</a> 了解更多</p><link rel=\\\"stylesheet\\\" href=\\\"//g.alicdn.com/ikc-fe/kc-editor-theme/pc.css\\\"></div>\",\"contentType\":\"Html\"},\"extraInfo\":{\"traceId\":\"2105329316886301159961171d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"b28c2196cd984c0ebdde938b6f2767d9\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630116000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452129533779299",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886301159961171d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863011594696813\",\"msgId\":\"1143452129533779299\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{\"clickParam\":{\"clickSource\":\"quick-replies\",\"clickId\":\"\",\"clickType\":\"knowledge\"}},\"content\":{\"text\":\"组件库\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"originContent\":\"组件库\",\"inputType\":\"shortcut\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630116000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452046411063250",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863010608591371\",\"msgId\":\"1143452046411063250\",\"version\":\"1.3.1\",\"sendTime\":1688630106088},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"richtext\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060233140\"},\"knowledgeOutParams\":{\"knowledgeId\":\"1060233140\"}},\"content\":{\"text\":\"<div id=\\\"se-knowledge\\\"><p><img src=\\\"https://img.alicdn.com/tfs/TB1sGMPvp67gK0jSZPfXXahhFXa-1920-1080.png\\\" width=\\\"1920\\\" height=\\\"1080\\\"></p><link rel=\\\"stylesheet\\\" href=\\\"//g.alicdn.com/ikc-fe/kc-editor-theme/pc.css\\\"></div>\",\"contentType\":\"Html\"},\"extraInfo\":{\"traceId\":\"2105329316886301059498871d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"7151a9e752844ed8832161fc2b165a61\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630106000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452045245046383",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886301059498871d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863010589641775\",\"msgId\":\"1143452045245046383\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{},\"content\":{\"text\":\"ChatUI目标\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630106000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452010532986529",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863010180976927\",\"msgId\":\"1143452010532986529\",\"version\":\"1.3.1\",\"sendTime\":1688630101812},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"card\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060233143\"}},\"content\":{\"code\":\"fusion\",\"data\":{\"components\":[{\"code\":\"promotion\",\"data\":{\"array\":[{\"image\":\"https://img.alicdn.com/tfs/TB1Isy3vbj1gK0jSZFuXXcrHpXa-620-319.png\",\"action\":\"send\",\"type\":\"default\",\"title\":\"无障碍\",\"params\":{\"content\":\"无障碍\"}},{\"image\":\"https://img.alicdn.com/tfs/TB1C0n4t7L0gK0jSZFAXXcA9pXa-620-320.jpg\",\"action\":\"send\",\"text\":\"\",\"type\":\"default\",\"title\":\"主题定制\",\"params\":{\"content\":\"主题定制\"}},{\"image\":\"https://img.alicdn.com/tfs/TB1_JY7tYj1gK0jSZFOXXc7GpXa-620-320.jpg\",\"action\":\"send\",\"type\":\"default\",\"title\":\"国际化\",\"params\":{\"content\":\"国际化\"}},{\"image\":\"https://img.alicdn.com/tfs/TB103D1tVT7gK0jSZFpXXaTkpXa-620-320.jpg\",\"action\":\"send\",\"type\":\"default\",\"title\":\"响应式\",\"params\":{\"content\":\"响应式\"}}]}}],\"background\":\"transparent\",\"name\":\"ChatUI特色\",\"width\":\"normal\",\"internalVersion\":\"3.0.0\",\"id\":4867,\"position\":\"normal\",\"category\":\"assistant\",\"contentType\":\"static\",\"tenant\":11352062},\"cardId\":\"4867:2.0.0\",\"params\":{\"sourceId\":\"4000000\",\"isGuest\":\"true\",\"nick\":\"Guest1550006696\",\"dialog\":\"true\",\"isLoadNewServiceHallDeny\":\"false\",\"requestUrl\":\"http://ai.alimebot.taobao.com/intl/index.htm\",\"appId\":\"2005804\",\"navigationPageSwitch\":\"false\",\"appKey\":\"TeuvRW4J\",\"from\":\"kUmEyoVW73\",\"robotCode\":\"fn0PFg46kR\",\"autoTranslate\":\"false\",\"appChannelName\":\"other\",\"snsNick\":\"Guest1550006696\",\"canResumeAgentSession\":\"false\",\"enableLoadMessageAsync\":\"true\",\"invokeSource\":\"KBS\",\"appName\":\"chatui\",\"robotAppKey\":\"ApJ4MBYawl\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",\"sessionId\":\"1696add92e0c4758ad5ff008b4767bab\",\"robotId\":\"1879\",\"isPC\":\"true\",\"userId\":\"4000000387766443\",\"foreignId\":\"null\",\"sourceType\":\"ALIME\",\"robotSessionId\":\"1696add92e0c4758ad5ff008b4767bab\",\"sys_orderConfig\":\"{\\\"biz\\\":\\\"alixm\\\",\\\"hsf\\\":\\\"\\\",\\\"type\\\":\\\"tb\\\"}\",\"clientIp\":\"113.227.61.231\",\"cardId\":\"4867:2.0.0\",\"tenantId\":\"11352062\",\"isLoadNewServiceHall\":\"false\",\"guest\":\"true\",\"channelName\":\"ChatUI官网\"}},\"extraInfo\":{\"traceId\":\"2105329316886301015528727d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"c723ebf07d4445c3a6b6a75acda4a950\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630102000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143452008368725773",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886301015528727d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863010149969405\",\"msgId\":\"1143452008368725773\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{},\"content\":{\"text\":\"ChatUI有什么特性？\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630102000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143451936964893909",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863009304008041\",\"msgId\":\"1143451936964893909\",\"version\":\"1.3.1\",\"sendTime\":1688630093041},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"richtext\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060233145\"},\"knowledgeOutParams\":{\"knowledgeId\":\"1060233145\"}},\"content\":{\"text\":\"<div id=\\\"se-knowledge\\\"><p><img src=\\\"https://img.alicdn.com/tfs/TB1mQVnvUz1gK0jSZLeXXb9kVXa-1920-1080.png\\\" width=\\\"1920\\\" height=\\\"1080\\\"></p><link rel=\\\"stylesheet\\\" href=\\\"//g.alicdn.com/ikc-fe/kc-editor-theme/pc.css\\\"></div>\",\"contentType\":\"Html\"},\"extraInfo\":{\"traceId\":\"2105329316886300928458382d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"deaaa411b72c44a995723006b080bbbd\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630093000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143451935320727314",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886300928458382d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863009279137642\",\"msgId\":\"1143451935320727314\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{},\"content\":{\"text\":\"ChatUI成员\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630093000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143451786775256631",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168863007513428001\",\"msgId\":\"1143451786775256631\",\"version\":\"1.3.1\",\"sendTime\":1688630075137},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"richtext\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060233140\"},\"knowledgeOutParams\":{\"knowledgeId\":\"1060233140\"}},\"content\":{\"text\":\"<div id=\\\"se-knowledge\\\"><p><img src=\\\"https://img.alicdn.com/tfs/TB1sGMPvp67gK0jSZPfXXahhFXa-1920-1080.png\\\" width=\\\"1920\\\" height=\\\"1080\\\"></p><link rel=\\\"stylesheet\\\" href=\\\"//g.alicdn.com/ikc-fe/kc-editor-theme/pc.css\\\"></div>\",\"contentType\":\"Html\"},\"extraInfo\":{\"traceId\":\"2105329316886300749857689d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"4f4c2936d8784ed1932a2af1c8677bf8\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630075000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143451785500187793",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886300749857689d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168863007492715713\",\"msgId\":\"1143451785500187793\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{},\"content\":{\"text\":\"ChatUI目标\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688630075000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143449710066293954",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 4,
+                  "senderSource": null,
+                  "flowType": 2,
+                  "content": "{\"header\":{\"localMsgId\":\"168862982757155377\",\"msgId\":\"1143449710066293954\",\"version\":\"1.3.1\",\"sendTime\":1688629827574},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"richtext\",\"context\":{\"invokeSource\":\"KBS\",\"knowledgeInfo\":{\"knowledgeId\":\"1060233140\"},\"knowledgeOutParams\":{\"knowledgeId\":\"1060233140\"}},\"content\":{\"text\":\"<div id=\\\"se-knowledge\\\"><p><img src=\\\"https://img.alicdn.com/tfs/TB1sGMPvp67gK0jSZPfXXahhFXa-1920-1080.png\\\" width=\\\"1920\\\" height=\\\"1080\\\"></p><link rel=\\\"stylesheet\\\" href=\\\"//g.alicdn.com/ikc-fe/kc-editor-theme/pc.css\\\"></div>\",\"contentType\":\"Html\"},\"extraInfo\":{\"traceId\":\"2105329316886298274237384d08e8\",\"foreignId\":\"null\",\"evaluable\":true,\"chatUuid\":\"649c9ae6a3004509be4632a2852c6bea\",\"sid\":\"1696add92e0c4758ad5ff008b4767bab\"}}],\"senderRole\":4,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688629828000
+              },
+              {
+                  "userId": 4000000387766443,
+                  "appKey": "TeuvRW4J",
+                  "msgId": "1143449708799614880",
+                  "sessionId": "1696add92e0c4758ad5ff008b4767bab",
+                  "senderRole": 1,
+                  "senderSource": null,
+                  "flowType": 1,
+                  "content": "{\"header\":{\"traceId\":\"2105329316886298274237384d08e8\",\"sessionHookKey\":\"im_v1://4e82b6242cf2376e16723d6ee8b47ed40792aa22fadeba3a6286887d77f4d1f6\",\"browser\":{\"User-Agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"},\"clientIp\":\"113.227.61.231\",\"localMsgId\":\"168862982734807956\",\"msgId\":\"1143449708799614880\",\"appKey\":\"TeuvRW4J\",\"device\":\"\",\"version\":\"1.1\"},\"body\":{\"ghost\":false,\"message\":[{\"msgType\":\"text\",\"context\":{},\"content\":{\"text\":\"ChatUI目标\"},\"extraInfo\":{\"sourceId\":4000000,\"imsid\":\"1696add92e0c4758ad5ff008b4767bab\",\"foreignId\":\"null\",\"from\":\"kUmEyoVW73\",\"isOb\":false,\"robotCode\":\"fn0PFg46kR\"}}],\"senderRole\":1,\"homepage\":false}}",
+                  "status": 1,
+                  "createTime": 1688629827000
+              }
+          ],
+          "total": 20,
+          "lastId": "1143449708799614880"
+      }
+  },
+  "msgCode": null,
+  "msgInfo": null
+}

@@ -1,0 +1,148 @@
+.chat_func_box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 42px;
+    width: 100%;
+
+    .chat_func_icon {
+        width: 25px;
+        height: 25px;
+    }
+
+    .emojis_box {
+        position: absolute;
+        left: 0;
+        top: -305px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        background: #fff;
+        padding: 15px 5px;
+
+        display: flex;
+        width: 339px;
+        height: 304px;
+        padding: 16px 12px 0px 12px;
+        justify-content: center;
+        align-items: center;
+        flex-shrink: 0;
+        border-radius: 12px;
+        background: var(--f-7-f-7-f-7, #F7F7F7);
+
+        /* 卡片阴影 */
+        box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.08);
+
+        .emoji {
+            font-size:28px;
+            display: inline-block;
+            padding:4px;
+            margin-right:13px;
+            width: 32px;
+            height: 32px;
+            text-align: center;
+            line-height: 36px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+
+            &:hover {
+                transform: scale(1.2);
+            }
+        }
+    }
+
+    .loading_box {
+        position: absolute;
+        right: 5px;
+        top: 0;
+        width: 50px;
+        height: 100%;
+        font-size: 15px;
+    }
+}
+
+/* loading svg大小调整 */
+::v-deep .circular {
+    margin-top: 8px;
+    width: 25px;
+    height: 25px;
+}
+
+.chat_content_editable {
+    font-family: 'PingFang SC';
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 100px;
+    border: none;
+    background: none;
+    letter-spacing: 0.5px;
+    resize: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    line-height: 24px;
+    /* 去除边框 */
+    border: none;
+    resize: none;
+    /* 去除选中后的边框 */
+    outline:none;
+    color:#333;
+}
+
+.no_content_send_btn {
+    position: absolute;
+    bottom: 20px;
+    right: 12px;
+    // width: 80px;
+    // opacity: 0.5;
+    background: var(--cccccc, #CCC)!important;
+    border:1px solid #CCC;
+}
+
+.chat_send_btn {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    // width: 80px;
+}
+
+.iconfont {
+    margin-right: 12px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+
+    &:hover {
+        transform: scale(1.2);
+        color: #1b83f9;
+    }
+}
+
+.record_box {
+    width: 250px;
+    height: 180px;
+}
+::v-deep(.atwho-li){
+    box-sizing: border-box;
+    height: 48px;
+    width:280px;
+    padding: 8px 12px;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    .at_someone{
+        display:flex;
+        justify-content: start;
+        align-items: center;
+        .el-avatar--square{
+            border-radius: 6px;
+        }
+        .text{
+            padding-left:12px;
+            font-size: 16px;
+            color: var(--1-a-1-a-1-a, #1A1A1A);
+        }
+    }
+
+}

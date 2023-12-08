@@ -6,7 +6,7 @@
 import MarkdownIt from 'markdown-it';
 
 export default {
-    name:'ddsMark',
+    name:'dssMark',
     data() {
         return {
         renderedMarkdown: '',
